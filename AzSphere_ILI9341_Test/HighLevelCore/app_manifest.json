@@ -1,0 +1,13 @@
+﻿{
+  "SchemaVersion": 1,
+  "Name": "AzSphere_ILI9341_Test_HighLevelCore",
+  "ComponentId": "b6eb173f-df11-4c7a-938b-a97a45bd0cd8",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [ "$AVNET_MT3620_SK_GPIO2", "$AVNET_MT3620_SK_GPIO42", "$AVNET_MT3620_SK_GPIO43", "$AVNET_MT3620_SK_GPIO16", "$AVNET_MT3620_SK_GPIO17" ],
+    "SpiMaster": [ "$AVNET_MT3620_SK_ISU0_SPI", "$AVNET_MT3620_SK_ISU1_SPI" ],
+    "AllowedApplicationConnections": [ "8dd5dff8-6847-49a9-bf68-7b63cdc3c086" ]
+  },
+  "ApplicationType": "Default"
+}

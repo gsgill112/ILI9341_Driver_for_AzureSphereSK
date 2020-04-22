@@ -1,0 +1,11 @@
+﻿{
+  "SchemaVersion": 1,
+  "Name": "AzSphere_ILI9341_Test_RealTimeCore",
+  "ComponentId": "8dd5dff8-6847-49a9-bf68-7b63cdc3c086",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedApplicationConnections": [ "b6eb173f-df11-4c7a-938b-a97a45bd0cd8" ]
+  },
+  "ApplicationType": "RealTimeCapable"
+}
